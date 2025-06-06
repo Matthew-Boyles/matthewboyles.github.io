@@ -1,15 +1,8 @@
 h1 {
-	text-align: left;
-	color: black;
-	font-size: 16;
-}
-title {
 	text-align: center;
-	font-size:18;
-	color: red;
 }
-a {
-	text-align: left;
-	color: blue;
-	font-size:12
+body {
+    	height: 1200px;
+    	background-image: url('Letterman - Cityscapes.png');
+    	background-size: cover;
 }
